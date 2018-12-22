@@ -4,7 +4,7 @@
 
 Huy Nguyen, Hao Shi, Jie Xu and Shiwei Zhang
 
-Package homepage: [huy-nguyen.com/CPMC-Lab](http://www.huy-nguyen.com/CPMC-Lab).
+Package homepage: [huynguyen.io/CPMC-Lab](https://www.huynguyen.io/CPMC-Lab).
 
 
 ## Licensing
